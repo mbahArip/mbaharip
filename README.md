@@ -1,5 +1,5 @@
 <p align="center" style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
-    <img src="Images\mbaharip.svg" alt="mbahArip Logo" height="250px">
+    <img src="Images\mbaharip.svg" alt="mbahArip Logo" height="250px"><br>
     <img src="Images\text.svg" alt="mbahArip Logo" width="300px">
 </p>  
 
@@ -8,7 +8,7 @@
 </p>
 
 <p>
-    <img src ="Images\about.svg" alt="About me" width="350px">
+    <img src ="Images\about.svg" alt="About me" width="300px">
     <br><br>
 </p>
 
@@ -22,7 +22,7 @@
 </p>
 
 <p>
-    <img src ="Images\social.svg" alt="About me" width="350px">
+    <img src ="Images\social.svg" alt="About me" width="300px">
     <br><br>
     <!-- <div style="display:flex; justify-content:center; gap: 2rem;padding: 1rem; font-size: 24px">
         <a href="https://www.facebook.com/mbahArip07/" style="display: flex; align-items:center; gap: 0.5rem; font-size: 24px; font-weight: bold;">
