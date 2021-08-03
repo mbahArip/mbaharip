@@ -49,7 +49,7 @@
             <img src="Images\social\social_mail.png" height="32px">E-mail
         </a>
     </div> -->
-    <h2 align="center">You can contact me here:</h2>
+    <h3 align="center">You can contact me here:</h3>
     <p align="center">
         <a href="https://www.facebook.com/mbahArip07/" >
             <img src="Images\social\social_fb.png" height="48px">&nbsp;&nbsp;
