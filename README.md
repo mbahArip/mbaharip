@@ -12,9 +12,9 @@
     <br><br>
 </p>
 
-### Hello, my name is **Arief Rachmawan**, I'm currently a student on local university.  
-### I love doing 3D Works, Graphic Design, and creating website.  
-### For 3D Works, I'm mainly using Blender, and for Designing I mainly use Affinity Designer.  
+### Hello, my name is **Arief Rachmawan**, I'm currently a student at [**Sekolah Tinggi Teknologi Bandung**](https://sttbandung.ac.id).  
+### I love doing 3D works, design graphics, and making website.  
+### For 3D works, I mainly using Blender, and for design I mainly use Affinity Designer.  
 ### I'm going to post all my works here, hope you like it! 
 
 <p>
@@ -49,6 +49,7 @@
             <img src="Images\social\social_mail.png" height="32px">E-mail
         </a>
     </div> -->
+    <h2 align="center">You can contact me here:</h2>
     <p align="center">
         <a href="https://www.facebook.com/mbahArip07/" >
             <img src="Images\social\social_fb.png" height="48px">&nbsp;&nbsp;
