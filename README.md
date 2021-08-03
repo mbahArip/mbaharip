@@ -72,10 +72,10 @@
 </p>
 
 <p>
-    <br><hr><br>
+    <hr>
 </p>
 
-<p style="display:flex; flex-direction:row; flex-wrap: wrap; gap: 1rem;">
+<p align="top">
     <img src="https://github-readme-stats.vercel.app/api?username=mbaharip&theme=dracula&layout=compact&show_icons=true" style="width:45%; max-height: 15rem; object-fit: contain">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaharip&theme=dracula&layout=compact" style="width:45%; max-height: 15rem; object-fit: contain">
 </p>
