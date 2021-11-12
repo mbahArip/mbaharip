@@ -76,7 +76,7 @@
     <hr>
 </p>
 
-<p align="top">
-    <img src="https://github-readme-stats.vercel.app/api?username=mbaharip&theme=dracula&layout=compact&show_icons=true" style="width:45%; max-height: 15rem; object-fit: contain">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaharip&theme=dracula&layout=compact" style="width:45%; max-height: 15rem; object-fit: contain">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mbaharip&theme=dracula&layout=compact&show_icons=true" height="150rem">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaharip&theme=dracula&layout=compact" height="150rem">
 </p>
