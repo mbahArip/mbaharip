@@ -1,82 +1,29 @@
 <p align="center" style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
-    <img src="Images\mbaharip.svg" alt="mbahArip Logo" height="250px"><br>
-    <img src="Images\text.svg" alt="mbahArip Logo" width="300px">
+    <img src="https://mbaharip-nextjs.vercel.app/_next/image?url=%2Fmain.svg&w=1080&q=75" alt="mbahArip Logo" height="150px"><br>
 </p>  
 
-<p>
-   <hr>
-</p>
+# About Me :
+Hello! My name is **Arief Rachmawan**.  
+I'm currently a student at local university in Bandung, Indonesia.  
+I love doing 3D Works, Graphic Design, and Programming.
 
-<p>
-    <img src ="Images\about.svg" alt="About me" width="300px">
-    <br><br>
-</p>
+## Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mbaharip07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mbaharip_) [![Artstation](https://img.shields.io/badge/Artstation-%2313AFF0.svg?style=for-the-badge&logo=Artstation&logoColor=white)](https://instagram.com/mbaharip_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mbaharip_) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/652155604172931102) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbaharip) 
 
-### Hello, my name is **Arief Rachmawan**, I'm currently a student at [**Sekolah Tinggi Teknologi Bandung**](https://sttbandung.ac.id).  
-### I love doing 3D works, design graphics, and making website.  
-### For 3D works, I mainly using Blender, and for design I mainly use Affinity Designer.  
-### I'm going to post all my works here, hope you like it! 
+# Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+# GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=mbaharip&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaharip&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mbaharip&theme=tokyonight&hide_border=true) -->
 
-<p>
-    <hr>
-</p>
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mbaharip&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-<p>
-    <img src ="Images\social.svg" alt="About me" width="300px">
-    <br><br>
-    <!-- <div style="display:flex; justify-content:center; gap: 2rem;padding: 1rem; font-size: 24px">
-        <a href="https://www.facebook.com/mbahArip07/" style="display: flex; align-items:center; gap: 0.5rem; font-size: 24px; font-weight: bold;">
-            <img src="Images\social\social_fb.png" height="32px">Facebook
-        </a>
-        ||
-        <a href="https://www.facebook.com/mbahArip07/" style="display: flex; align-items:center; gap: 0.5rem; font-size: 24px; font-weight: bold;">
-            <img src="Images\social\social_twit.png" height="32px">Twitter
-        </a>
-        ||
-        <a href="https://www.facebook.com/mbahArip07/" style="display: flex; align-items:center; gap: 0.5rem; font-size: 24px; font-weight: bold;">
-            <img src="Images\social\social_insta.png" height="32px">Instagram
-        </a>
-        ||
-        <a href="https://www.facebook.com/mbahArip07/" style="display: flex; align-items:center; gap: 0.5rem; font-size: 24px; font-weight: bold;">
-            <img src="Images\social\social_discord.png" height="32px">Discord
-        </a>
-        ||
-        <a href="https://www.facebook.com/mbahArip07/" style="display: flex; align-items:center; gap: 0.5rem; font-size: 24px; font-weight: bold;">
-            <img src="Images\social\social_web.png" height="32px">Website
-        </a>
-        ||
-        <a href="https://www.facebook.com/mbahArip07/" style="display: flex; align-items:center; gap: 0.5rem; font-size: 24px; font-weight: bold;">
-            <img src="Images\social\social_mail.png" height="32px">E-mail
-        </a>
-    </div> -->
-    <h3 align="center">You can contact me at:</h3>
-    <p align="center">
-        <a href="https://www.facebook.com/mbahArip07/" >
-            <img src="Images\social\social_fb.png" height="48px">&nbsp;&nbsp;
-        </a>
-        <a href="https://twitter.com/mbahArip_/" >
-            <img src="Images\social\social_twit.png" height="48px">&nbsp;&nbsp;
-        </a>
-        <a href="https://www.instagram.com/mbaharip_//" >
-            <img src="Images\social\social_insta.png" height="48px">&nbsp;&nbsp;
-        </a>
-        <a href="https://discord.com/users/652155604172931102/" >
-            <img src="Images\social\social_discord.png" height="48px">&nbsp;&nbsp;
-        </a>
-        <a href="https://www.mbaharip.me/" >
-            <img src="Images\social\social_web.png" height="48px">&nbsp;&nbsp;
-        </a>
-        <a href="mailto:support@mbaharip.me" >
-            <img src="Images\social\social_mail.png" height="48px">
-        </a>
-    </p>
-</p>
-
-<p>
-    <hr>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mbaharip&theme=dracula&layout=compact&show_icons=true" height="150rem">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaharip&theme=dracula&layout=compact" height="150rem">
-</p>
+<!--
+## You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kanoon48modification)
+-->
