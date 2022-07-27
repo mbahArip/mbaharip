@@ -1,5 +1,5 @@
 <p align="center" style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
-    <img src="https://cdn.mbaharip.me/api?path=/text.svg&raw=true" alt="mbahArip Logo" height="150px"><br>
+    <img src="https://drive.mbaharip.me/api?path=/%E8%8A%B1%E5%A4%A2%EF%BC%8Fkanon/LogoText.png&raw=true" alt="mbahArip Logo" height="75px"><br>
 </p>  
 
 # About Me :
