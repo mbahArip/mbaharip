@@ -1,5 +1,5 @@
 <p align="center" style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
-    <img src="https://mbaharip-nextjs.vercel.app/_next/image?url=%2Fmain.svg&w=1080&q=75" alt="mbahArip Logo" height="150px"><br>
+    <img src="https://cdn.mbaharip.me/api?path=/text.svg&raw=true" alt="mbahArip Logo" height="150px"><br>
 </p>  
 
 # About Me :
