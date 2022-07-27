@@ -1,10 +1,10 @@
-<p align="center" style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
-    <img src="https://drive.mbaharip.me/api?path=/%E8%8A%B1%E5%A4%A2%EF%BC%8Fkanon/LogoText.png&raw=true" alt="mbahArip Logo" height="75px"><br>
+<p align="center" style="display:flex; flex-direction:row; justify-content:center; align-items:center;">
+    <img src="https://drive.mbaharip.me/api?path=/%E8%8A%B1%E5%A4%A2%EF%BC%8Fkanon/LogoIcon.png&raw=true" alt="mbahArip Logo" height="75px">
 </p>  
 
 # About Me :
 Hello! My name is **Arief Rachmawan**.  
-I'm currently a student at local university in Bandung, Indonesia.  
+I'm currently a student at Sekolah Tinggi Teknologi Bandung, Indonesia.  
 I love doing 3D Works, Graphic Design, and Programming.
 
 ## Socials
@@ -35,8 +35,3 @@ I love doing 3D Works, Graphic Design, and Programming.
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mbaharip&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-<!--
-## You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kanoon48modification)
--->
