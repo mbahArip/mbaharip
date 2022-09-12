@@ -1,7 +1,3 @@
-<p align="center" style="display:flex; flex-direction:row; justify-content:center; align-items:center;">
-    <img src="https://drive.mbaharip.me/api?path=/%E8%8A%B1%E5%A4%A2%EF%BC%8Fkanon/LogoIcon.png&raw=true" alt="mbahArip Logo" height="75px">
-</p>  
-
 # About Me :
 Hello! My name is **Arief Rachmawan**.  
 I'm currently a student at Sekolah Tinggi Teknologi Bandung, Indonesia.  
