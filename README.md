@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='./img/banner.webp' alt='mbaharip banner' style='height:175px; width:100%; object-fit:cover; border-radius: 12px;' />
+  <img src='./img/banner.webp' alt='mbaharip banner' style='width:100%; border-radius: 12px;' />
   <span style='font-size:10px;'>Logo by <a href='https://twitter.com/RINYA_P' target='_blank' rel='noopener noreferrer'>りにゃ (RINYA_P)</a></span>
 </p>
 
