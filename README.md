@@ -5,12 +5,12 @@
 
 
 ---
-<!--START_ABOUT: -->
+<!-- ABOUT:START -->
 Hello there!👋  
 My name is **Arief Rachmawan** — an **Indonesian based web developer**. I usually build thing using **Next.js, Typescript, and TailwindCSS**.
 
 I love Ani Manga Game stuff, so my projects may be focusing around these topic!  
-<!--END_ABOUT: -->
+<!-- ABOUT:END -->
 
 ---
 
