@@ -1,8 +1,9 @@
-<p align='center'>
-<img src='./img/header.svg' alt='Header' width="800" height="400" />
-  <!-- <img src='./img/banner.webp' alt='mbaharip banner' style='width:100%; border-radius: 12px;' />
-  <span style='font-size:10px;'>Logo by <a href='https://twitter.com/RINYA_P' target='_blank' rel='noopener noreferrer'>りにゃ (RINYA_P)</a></span> -->
-</p>
+<div align='center'>
+  <img src='./img/banner-cropped.png' alt='mbaharip banner' style='width:66%; border-radius: 12px;' />
+</div>
+<div align='center'>
+  <span style='font-size:10px;'>Logo by <a href='https://twitter.com/RINYA_P' target='_blank' rel='noopener noreferrer'>りにゃ (RINYA_P)</a></span>
+</div>
 
 
 ---
