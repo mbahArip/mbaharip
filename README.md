@@ -37,7 +37,7 @@ I love Ani Manga Game stuff, so my projects may be focusing around these topic!
     Discord
   </a>
   |
-  <a href='mailto:support@mbaharip.com' target='_blank' rel='noopener noreferrer'>
+  <a href='mailto:work@mbaharip.com' target='_blank' rel='noopener noreferrer'>
     Contact me!
   </a>
 </p>
