@@ -7,6 +7,8 @@
 
 
 ---
+### 🙋 About me
+
 <!-- ABOUT:START -->
 Hello there!👋  
 My name is **Arief Rachmawan** — an **Indonesian based web developer**. I usually build thing using **Next.js, Typescript, and TailwindCSS**.
@@ -15,6 +17,9 @@ I love Ani Manga Game stuff, so my projects may be focusing around these topic!
 <!-- ABOUT:END -->
 
 ---
+
+### 📊 Wakatime stats
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -27,7 +32,7 @@ HTML         30 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
----
+
 
 <p align='center' style='color:rgba(110,110,110)'>
   <a href='https://www.mbaharip.com' target='_blank' rel='noopener noreferrer'>
