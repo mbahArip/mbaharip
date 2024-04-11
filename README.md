@@ -15,6 +15,10 @@ I love Ani Manga Game stuff, so my projects may be focusing around these topic!
 <!-- ABOUT:END -->
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 <p align='center' style='color:rgba(110,110,110)'>
   <a href='https://www.mbaharip.com' target='_blank' rel='noopener noreferrer'>
@@ -25,12 +29,8 @@ I love Ani Manga Game stuff, so my projects may be focusing around these topic!
     Facebook
   </a>
   |
-  <a href='https://www.x.com/mbaharip_' target='_blank' rel='noopener noreferrer'>
+  <a href='https://www.x.com/__mbaharip__' target='_blank' rel='noopener noreferrer'>
     X
-  </a>
-  |
-  <a href='https://dev.to/mbaharip' target='_blank' rel='noopener noreferrer'>
-    Dev.to
   </a>
   |
   <a href='https://discord.com/users/652155604172931102' target='_blank' rel='noopener noreferrer'>
