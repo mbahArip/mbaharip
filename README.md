@@ -23,10 +23,10 @@ I love Ani Manga Game stuff, so my projects may be focusing around these topic!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 7 mins
+Total Time: 4 hrs 42 mins
 
-TypeScript    4 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.42 %
-Other         56 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.54 %
+TypeScript    3 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀   67.28 %
+Other         1 hr 6 mins     ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.07 %
 ```
 
 <!--END_SECTION:waka-->
